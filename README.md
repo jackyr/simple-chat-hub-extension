@@ -4,7 +4,7 @@
 
 A browser extension aggregating numerous mainstream AI chat model platforms, supporting synchronous multi-platform chat. 
 
-<img src="https://github.com/jackyr/simple-chat-hub-extension/blob/main/screenshots/screenshot_cn.png?raw=true" alt="screenshot" width="640" height="352" />
+<img src="https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_en.jpg" alt="screenshot" width="640" height="360" />
 
 ### Features:
 - One-click message sending to multiple platforms and synchronous receipt of replies, facilitating cross-referencing and comparison between platforms.

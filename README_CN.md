@@ -2,7 +2,7 @@
 
 集合各大主流AI模型聊天平台，支持多平台同屏同步聊天的浏览器插件。
 
-<img src="https://github.com/jackyr/simple-chat-hub-extension/blob/main/screenshots/screenshot_cn.png?raw=true" alt="screenshot" width="640" height="352" />
+<img src="https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_cn.jpg" alt="screenshot" width="640" height="360" />
 
 ### 特点:
 - 一键发送消息至多个平台并且同步获得回复，方便在各平台之间参考和对比
