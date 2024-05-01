@@ -2,6 +2,8 @@
 
 集合各大主流AI模型聊天平台，支持多平台同屏同步聊天的浏览器插件。
 
+<iframe width="901" height="507" src="https://www.youtube.com/embed/arvZmmWyUZw" title="Simple Chat Hub - AI Chats in One" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <img src="https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_cn.jpg" alt="screenshot" width="640" height="360" />
 
 ### 特点:
@@ -15,7 +17,7 @@
 - 插件无需注册，免费使用
 
 ### 安装
-- 【推荐】Chrome扩展商店安装(审核中)
+- 【推荐】[Chrome扩展商店](https://chromewebstore.google.com/detail/dpfkgaedamhcmkkgeiajeggihmfjhhlj)安装
 - 下载本地安装
   1. 下载项目的 zip 文件，在右上方有个 Download ZIP, 解压到本地
   2. 在chrome 右上角的设置按钮下找到更多工具，打开扩展程序

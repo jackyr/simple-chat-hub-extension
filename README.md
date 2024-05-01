@@ -4,6 +4,8 @@
 
 A browser extension aggregating numerous mainstream AI chat model platforms, supporting synchronous multi-platform chat. 
 
+<iframe width="901" height="507" src="https://www.youtube.com/embed/arvZmmWyUZw" title="Simple Chat Hub - AI Chats in One" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <img src="https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_en.jpg" alt="screenshot" width="640" height="360" />
 
 ### Features:
@@ -17,7 +19,7 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 - The plugin does not require registration and is free to use.
 
 ### Install
-- [Recommended] Install from Chrome Web Store (under review)
+- [Recommended] Install from [Chrome Web Store](https://chromewebstore.google.com/detail/dpfkgaedamhcmkkgeiajeggihmfjhhlj)
 - Download install
   1. Download the project's zip file and extract it locally using the "Download ZIP" option in the top right corner.
   2. In Chrome, click the settings button in the top right corner, go to "More Tools," and open Extensions.
