@@ -2,9 +2,7 @@
 
 集合各大主流AI模型聊天平台，支持多平台同屏同步聊天的浏览器插件。
 
-<iframe width="901" height="507" src="https://www.youtube.com/embed/arvZmmWyUZw" title="Simple Chat Hub - AI Chats in One" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<img src="https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_cn.jpg" alt="screenshot" width="640" height="360" />
+[![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_cn.jpg)](https://www.bilibili.com/video/BV1eD421N7vT/)
 
 ### 特点:
 - 一键发送消息至多个平台并且同步获得回复，方便在各平台之间参考和对比
