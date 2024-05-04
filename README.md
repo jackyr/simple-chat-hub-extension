@@ -28,7 +28,7 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 - For platforms that require login, please complete the login operation first before opening them from the plugin.
 
 ### Supported platform
-- [ChatGPT](https://chat.openai.com/)
+- [ChatGPT](https://chatgpt.com/)
 - [Copilot](https://copilot.microsoft.com/)
 - [Gemini](https://gemini.google.com/)
 - [Poe](https://poe.com/)

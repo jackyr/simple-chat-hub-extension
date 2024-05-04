@@ -26,7 +26,7 @@
 - 需要登陆的平台请先完成登陆操作，再从插件中打开
 
 ### 支持的平台
-- [ChatGPT](https://chat.openai.com/)
+- [ChatGPT](https://chatgpt.com/)
 - [Copilot](https://copilot.microsoft.com/)
 - [Gemini](https://gemini.google.com/)
 - [Poe](https://poe.com/)
