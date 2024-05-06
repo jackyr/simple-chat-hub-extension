@@ -37,6 +37,8 @@
 - [商量](https://chat.sensetime.com/wb/chat/)
 - [文心一言](https://yiyan.baidu.com/)
 - [360智脑](https://chat.360.com/)
+- [百川](https://www.baichuan-ai.com/chat)
+- [海螺](https://hailuoai.com/)
 
 ### 隐私声明
 本插件不会收集和泄漏您的任何隐私数据，聊天会话服务均来自于平台官网

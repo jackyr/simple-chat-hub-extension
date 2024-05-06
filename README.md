@@ -37,8 +37,10 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 - [HunYuan](https://hunyuan.tencent.com/bot/)
 - [Kimi](https://kimi.moonshot.cn/)
 - [SenseChat](https://chat.sensetime.com/wb/chat/)
-- [TongYi](https://yiyan.baidu.com/)
+- [YiYan](https://yiyan.baidu.com/)
 - [ZhiNao](https://chat.360.com/)
+- [BaiChuan](https://www.baichuan-ai.com/chat)
+- [HaiLuo](https://hailuoai.com/)
 
 ### Privacy Statement
 This plugin will not collect or leak any of your privacy data. Chat session services are provided by platform official websites.
