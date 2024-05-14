@@ -17,9 +17,9 @@
 ### 安装
 - 【推荐】[Chrome扩展商店](https://chromewebstore.google.com/detail/dpfkgaedamhcmkkgeiajeggihmfjhhlj)安装
 - 下载本地安装
-  1. 下载项目的 zip 文件，在右上方有个 Download ZIP, 解压到本地
-  2. 在chrome 右上角的设置按钮下找到更多工具，打开扩展程序
-  3. 选择“加载已解压的扩展程序”(如果没有显示先选中开发者模式)，选中解压后的文件夹，完成！
+  1. 下载项目CRX文件到本地
+  2. 打开Chrome扩展页面 (chrome://extensions/)
+  3. 拖动CRX文件到Chrome扩展页面完成安装
 
 ### 使用注意
 - 请先确保您的网络能正常访问AI模型聊天平台官网
