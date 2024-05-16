@@ -17,7 +17,7 @@
 ### 安装
 - 【推荐】[Chrome扩展商店](https://chromewebstore.google.com/detail/dpfkgaedamhcmkkgeiajeggihmfjhhlj)安装
 - 下载本地安装
-  1. 下载项目CRX文件到本地
+  1. 下载项目ZIP文件到本地，并解压缩得到CRX文件
   2. 打开Chrome扩展页面 (chrome://extensions/)
   3. 拖动CRX文件到Chrome扩展页面完成安装
 

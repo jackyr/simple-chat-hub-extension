@@ -19,7 +19,7 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 ### Install
 - [Recommended] Install from [Chrome Web Store](https://chromewebstore.google.com/detail/dpfkgaedamhcmkkgeiajeggihmfjhhlj)
 - Download install
-  1. Download the project CRX file to your local computer
+  1. Download the project ZIP file to your local computer and extract it to obtain the CRX file.
   2. Open the Chrome Extensions page (chrome://extensions/)
   3. Drag the CRX file to the Chrome Extensions page to complete the installation
 
