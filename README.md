@@ -14,18 +14,18 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 - Can independently operate chat sessions in each platform window.
 - Supports light/dark theme switching.
 - Supports international language switching.
-- The plugin does not require registration and is free to use.
+- The extension does not require registration and is free to use.
 
 ### Install
 - [Recommended] Install from [Chrome Web Store](https://chromewebstore.google.com/detail/dpfkgaedamhcmkkgeiajeggihmfjhhlj)
 - Download install
-  1. Download the project ZIP file to your local computer and extract it to obtain the CRX file.
+  1. Download the project ZIP file to your local computer and extract it to obtain the CRX file
   2. Open the Chrome Extensions page (chrome://extensions/)
   3. Drag the CRX file to the Chrome Extensions page to complete the installation
 
 ### Instructions for Use
 - Please ensure that your network can access the official websites of AI model chat platforms normally.
-- For platforms that require login, please complete the login operation first before opening them from the plugin.
+- For platforms that require login, please complete the login operation first before opening them from the extension.
 
 ### Supported platform
 - [ChatGPT](https://chatgpt.com/)
@@ -46,10 +46,10 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 - [HaiLuo](https://hailuoai.com/)
 
 ### Privacy Statement
-This plugin will not collect or leak any of your privacy data. Chat session services are provided by platform official websites.
+This extension will not collect or leak any of your privacy data. Chat session services are provided by platform official websites.
 
 <!-- ### Donations
-Independent development is not easy. If you like this plugin or find it helpful, buy me a cup of coffee! -->
+Independent development is not easy. If you like this extension or find it helpful, buy me a cup of coffee! -->
 
 ### Note
 Due to personal time and cost limitations, not all versions of the models have been thoroughly tested. Your valuable feedback and suggestions are welcome!
