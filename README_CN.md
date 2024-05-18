@@ -15,11 +15,13 @@
 - 扩展无需注册，免费使用
 
 ### 安装
-- 【推荐】[Chrome扩展商店](https://chromewebstore.google.com/detail/dpfkgaedamhcmkkgeiajeggihmfjhhlj)安装
+- 【推荐】[Chrome扩展商店](https://chromewebstore.google.com/detail/dpfkgaedamhcmkkgeiajeggihmfjhhlj) / Edge扩展商店 安装
 - 下载本地安装
   1. 下载项目ZIP文件到本地，并解压缩得到CRX文件
-  2. 打开Chrome扩展页面 (chrome://extensions/)
-  3. 拖动CRX文件到Chrome扩展页面完成安装
+  2. 打开扩展页面，打开“开发者模式”
+    - Chrome (chrome://extensions/)
+    - Edge (edge://extensions/)
+  3. 拖动CRX文件到扩展页面完成安装
 
 ### 使用注意
 - 请先确保您的网络能正常访问AI模型聊天平台官网
