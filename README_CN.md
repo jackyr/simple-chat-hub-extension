@@ -4,6 +4,8 @@
 
 [![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_cn.jpg)](https://www.bilibili.com/video/BV1eD421N7vT/)
 
+### [官方网站](https://chathub.aipilot.cc/?lang=zh-CN)
+
 ### 特点:
 - 一键发送消息至多个平台并且同步获得回复，方便在各平台之间参考和对比
 - 支持十几种国际国内流行的AI模型聊天平台，并且在不断扩充中

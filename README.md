@@ -6,6 +6,8 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 
 [![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_en.jpg)](https://www.youtube.com/watch?v=arvZmmWyUZw)
 
+### [Homepage](https://chathub.aipilot.cc/)
+
 ### Features:
 - One-click message sending to multiple platforms and synchronous receipt of replies, facilitating cross-referencing and comparison between platforms.
 - Supports over a dozen popular AI model chat platforms, with continuous expansion.
