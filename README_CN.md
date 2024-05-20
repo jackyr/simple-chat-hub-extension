@@ -53,13 +53,13 @@
 ### 打赏
 独立开发不易，如果您喜欢本扩展或者觉得对您有所帮助，请我喝一杯咖啡吧！
 
-PayPal:
-
-![PayPal](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/paypal.png)
-
 微信:
 
 ![微信](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/wechat.png)
+
+PayPal:
+
+![PayPal](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/paypal.png)
 
 ### 附
 由于个人时间及成本限制，未对所有版本的模型进行充分测试，欢迎提出宝贵的意见或建议！
