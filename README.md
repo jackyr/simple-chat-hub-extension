@@ -52,8 +52,16 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 ### Privacy Statement
 This extension will not collect or leak any of your privacy data. Chat session services are provided by platform official websites.
 
-<!-- ### Donations
-Independent development is not easy. If you like this extension or find it helpful, buy me a cup of coffee! -->
+### Donations
+Independent development is not easy. If you like this extension or find it helpful, buy me a cup of coffee!
+
+PayPal:
+
+![PayPal](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/paypal.png)
+
+WeChat:
+
+![WeChat](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/wechat.png)
 
 ### Note
 Due to personal time and cost limitations, not all versions of the models have been thoroughly tested. Your valuable feedback and suggestions are welcome!
