@@ -19,7 +19,7 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 - The extension does not require registration and is free to use.
 
 ### Install
-- [Recommended] Install from [Chrome Web Store](https://chromewebstore.google.com/detail/dpfkgaedamhcmkkgeiajeggihmfjhhlj) / Edge Add-ons
+- [Recommended] Install from [Chrome Web Store](https://chromewebstore.google.com/detail/dpfkgaedamhcmkkgeiajeggihmfjhhlj) / [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/simple-chat-hub/plaobjkecadfmaglmhdaolohmckjgnom)
 - Download install
   1. Download the project ZIP file to your local computer and extract it to obtain the CRX file
   2. Open the Extensions page and enable "Developer mode".
