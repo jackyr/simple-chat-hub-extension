@@ -4,7 +4,7 @@
 
 A browser extension aggregating numerous mainstream AI chat model platforms, supporting synchronous multi-platform chat. 
 
-[![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_en.jpg)](https://www.youtube.com/watch?v=arvZmmWyUZw)
+[![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_en.jpg)](https://youtu.be/78zAtefoJbw)
 
 ### [Homepage](https://chathub.aipilot.cc/)
 
