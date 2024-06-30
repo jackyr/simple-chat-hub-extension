@@ -63,3 +63,6 @@ Summary
 - feat: Coze, Jamba, Krutrim, Qwen, TianGong support
 - feat: UX refine
 - fix: bugfix
+
+## 1.0.1 [2024.06.30]
+- fix: Kimi bugfix
