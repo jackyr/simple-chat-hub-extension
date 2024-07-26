@@ -66,3 +66,6 @@ Summary
 
 ## 1.0.1 [2024.06.30]
 - fix: Kimi bugfix
+
+## 1.0.2 [2024.07.26]
+- fix: ChatGPT, Jamba, Qwen, BaiChuan bugfix
