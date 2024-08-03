@@ -69,3 +69,6 @@ Summary
 
 ## 1.0.2 [2024.07.26]
 - fix: ChatGPT, Jamba, Qwen, BaiChuan bugfix
+
+## 1.1.0 [2024.08.03]
+- feat: Claude support
