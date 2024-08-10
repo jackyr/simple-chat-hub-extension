@@ -72,3 +72,6 @@ Summary
 
 ## 1.1.0 [2024.08.03]
 - feat: Claude support
+
+## 1.1.1 [2024.08.10]
+- fix: ChatGPT, Poe, WanZhi bugfix
