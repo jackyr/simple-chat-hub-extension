@@ -14,6 +14,7 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 - Integrates platform official websites, no need to provide API Key.
 - Customizable number and order of platform windows displayed on the screen.
 - Can independently operate chat sessions in each platform window.
+- Supports prompt intelligent optimization.
 - Screenshot sharing, supports long screenshots.
 - Supports light/dark theme switching. Supports international language switching.
 - The extension does not require registration and is free to use.

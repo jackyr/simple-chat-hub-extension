@@ -75,3 +75,7 @@ Summary
 
 ## 1.1.1 [2024.08.10]
 - fix: ChatGPT, Poe, WanZhi bugfix
+
+## 1.2.0 [2024.08.14]
+- feat: Prompt optimization support
+- feat: Stability enhance
