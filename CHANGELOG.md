@@ -79,3 +79,6 @@ Summary
 ## 1.2.0 [2024.08.14]
 - feat: Prompt optimization support
 - feat: Stability enhance
+
+## 1.2.1 [2024.08.18]
+- fix: Copy/pasta fix
