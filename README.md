@@ -10,7 +10,7 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 
 ### Features:
 - One-click message sending to multiple platforms and synchronous receipt of replies, facilitating cross-referencing and comparison between platforms.
-- Supports over a dozen popular AI model chat platforms, with continuous expansion.
+- Supports a wide range of popular AI model chat platforms, with ongoing expansion.
 - Integrates platform official websites, no need to provide API Key.
 - Customizable number and order of platform windows displayed on the screen.
 - Can independently operate chat sessions in each platform window.
@@ -33,7 +33,7 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 - For platforms that require login, please complete the login operation first before opening them from the extension.
 
 ### Supported platform
-[ChatGPT](https://chatgpt.com/) / [Copilot](https://copilot.microsoft.com/) / [Gemini](https://gemini.google.com/) / [Claude](https://claude.ai/) / [Meta AI](https://www.meta.ai/) / [Mistral](https://chat.mistral.ai/chat) / [Reka](https://chat.reka.ai/chat) / [Poe](https://poe.com/) / [Coze](https://www.coze.com/) / [Jamba](https://studio.ai21.com/home/chat/single-chat) / [krutrim](https://chat.olakrutrim.com/) / [Coze (CN)](https://www.coze.cn/) / [Qwen](https://tongyi.aliyun.com/qianwen/) / [TianGong](https://www.tiangong.cn/chat/universal/016) / [ChatGLM](https://chatglm.cn/) / [DouBao](https://www.doubao.com/) / [HunYuan](https://hunyuan.tencent.com/bot/) / [DeepSeek](https://chat.deepseek.com/) / [Kimi](https://kimi.moonshot.cn/) / [SenseChat](https://chat.sensetime.com/wb/chat/) / [Ernie Bot](https://yiyan.baidu.com/) / [360ZhiNao](https://chat.360.com/) / [BaiChuan](https://ying.baichuan-ai.com/chat) / [HaiLuo AI](https://hailuoai.com/) / [WanZhi](https://www.wanzhi.com/)
+[ChatGPT](https://chatgpt.com/) / [Copilot](https://copilot.microsoft.com/) / [Gemini](https://gemini.google.com/) / [Claude](https://claude.ai/) / [Meta AI](https://www.meta.ai/) / [Mistral](https://chat.mistral.ai/chat) / [Reka](https://chat.reka.ai/chat) / [Poe](https://poe.com/) / [Coze](https://www.coze.com/) / [Perplexity](https://www.perplexity.ai/) / [You.com](https://you.com/) / [Liner](https://getliner.com/) / [Jamba](https://studio.ai21.com/home/chat/single-chat) / [krutrim](https://chat.olakrutrim.com/) / [Coze (CN)](https://www.coze.cn/) / [Qwen](https://tongyi.aliyun.com/qianwen/) / [TianGong](https://www.tiangong.cn/chat/universal/016) / [ChatGLM](https://chatglm.cn/) / [DouBao](https://www.doubao.com/) / [HunYuan](https://hunyuan.tencent.com/bot/) / [DeepSeek](https://chat.deepseek.com/) / [Kimi](https://kimi.moonshot.cn/) / [SenseChat](https://chat.sensetime.com/wb/chat/) / [Ernie Bot](https://yiyan.baidu.com/) / [360ZhiNao](https://chat.360.com/) / [BaiChuan](https://ying.baichuan-ai.com/chat) / [HaiLuo AI](https://hailuoai.com/) / [WanZhi](https://www.wanzhi.com/) / [MetaSo](https://metaso.cn/)
 
 ### Privacy Statement
 This extension will not collect or leak any of your privacy data. Chat session services are provided by platform official websites.

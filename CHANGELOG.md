@@ -82,3 +82,7 @@ Summary
 
 ## 1.2.1 [2024.08.18]
 - fix: Copy/pasta fix
+
+## 1.3.0 [2024.08.25]
+- feat: Perplexity, You.com, Liner, MetaSo support
+- feat: UX refine
