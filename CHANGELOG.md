@@ -86,3 +86,8 @@ Summary
 ## 1.3.0 [2024.08.25]
 - feat: Perplexity, You.com, Liner, MetaSo support
 - feat: UX refine
+
+## 1.3.1 [2024.08.29]
+- feat: add feedback entry
+- feat: UX refine
+- fix: bugfix
