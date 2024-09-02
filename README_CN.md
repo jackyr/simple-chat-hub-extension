@@ -1,5 +1,7 @@
 # Simple Chat Hub - 聊多宝
 
+### [官方网站](https://chathub.aipilot.cc/?lang=zh-CN)
+
 集合各大主流AI模型聊天平台，支持多平台同屏同步聊天的浏览器扩展。
 
 [![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_cn.jpg)](https://www.bilibili.com/video/BV1eD421N7vT/)
@@ -7,8 +9,6 @@
 ![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot2_cn.png)
 
 ![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot3_cn.png)
-
-### [官方网站](https://chathub.aipilot.cc/?lang=zh-CN)
 
 ### 特点:
 - 一键发送消息至多个平台并且同步获得回复，方便在各平台之间参考和对比

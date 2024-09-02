@@ -2,6 +2,8 @@
 
 [中文Readme](https://github.com/jackyr/simple-chat-hub-extension/blob/main/README_CN.md)
 
+### [Homepage](https://chathub.aipilot.cc/)
+
 A browser extension aggregating numerous mainstream AI chat model platforms, supporting synchronous multi-platform chat. 
 
 [![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_en.jpg)](https://youtu.be/78zAtefoJbw)
@@ -9,8 +11,6 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 ![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot2_en.png)
 
 ![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot3_en.png)
-
-### [Homepage](https://chathub.aipilot.cc/)
 
 ### Features:
 - One-click message sending to multiple platforms and synchronous receipt of replies, facilitating cross-referencing and comparison between platforms.
