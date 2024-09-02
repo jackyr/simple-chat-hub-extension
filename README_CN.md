@@ -4,6 +4,8 @@
 
 [![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_cn.jpg)](https://www.bilibili.com/video/BV1eD421N7vT/)
 
+![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot2_cn.jpg)
+
 ### [官方网站](https://chathub.aipilot.cc/?lang=zh-CN)
 
 ### 特点:
