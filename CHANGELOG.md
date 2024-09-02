@@ -91,3 +91,7 @@ Summary
 - feat: add feedback entry
 - feat: UX refine
 - fix: bugfix
+
+## 1.3.2 [2024.09.02]
+- feat: UX refine
+- fix: YiYan bugfix
