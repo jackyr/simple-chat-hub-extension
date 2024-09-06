@@ -95,3 +95,7 @@ Summary
 ## 1.3.2 [2024.09.02]
 - feat: UX refine
 - fix: YiYan bugfix
+
+## 1.3.3 [2024.09.06]
+- feat: capture bugfix and stability enhance
+- fix: bugfix
