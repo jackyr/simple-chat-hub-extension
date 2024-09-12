@@ -99,3 +99,6 @@ Summary
 ## 1.3.3 [2024.09.06]
 - feat: capture bugfix and stability enhance
 - fix: bugfix
+
+## 1.3.4 [2024.09.12]
+- fix: ChatGPT and Liner bugfix
