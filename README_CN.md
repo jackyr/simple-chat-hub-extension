@@ -8,7 +8,7 @@
 
 ![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot2_cn.png)
 
-![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot3_cn.png)
+![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot4_cn.png)
 
 ### 特点:
 - 一键发送消息至多个平台并且同步获得回复，方便在各平台之间参考和对比

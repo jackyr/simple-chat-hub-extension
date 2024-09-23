@@ -10,7 +10,7 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 
 ![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot2_en.png)
 
-![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot3_en.png)
+![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot4_en.png)
 
 ### Features:
 - One-click message sending to multiple platforms and synchronous receipt of replies, facilitating cross-referencing and comparison between platforms.
@@ -18,6 +18,7 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 - Integrates platform official websites, no need to provide API Key.
 - Customizable number and order of platform windows displayed on the screen.
 - Can independently operate chat sessions in each platform window.
+- Custom prompt library, retrieve prompts with one click.
 - Supports prompt intelligent optimization.
 - Screenshot sharing, supports long screenshots.
 - Supports light/dark theme switching. Supports international language switching.

@@ -77,8 +77,8 @@ Summary
 - fix: ChatGPT, Poe, WanZhi bugfix
 
 ## 1.2.0 [2024.08.14]
-- feat: Prompt optimization support
-- feat: Stability enhance
+- feat: prompt optimization support
+- feat: stability enhance
 
 ## 1.2.1 [2024.08.18]
 - fix: Copy/pasta fix
@@ -102,3 +102,7 @@ Summary
 
 ## 1.3.4 [2024.09.12]
 - fix: ChatGPT and Liner bugfix
+
+## 1.4.0 [2024.09.23]
+- feat: prompt library support
+- feat: add rating entry
