@@ -106,3 +106,6 @@ Summary
 ## 1.4.0 [2024.09.23]
 - feat: prompt library support
 - feat: add rating entry
+
+## 1.4.1 [2024.10.08]
+- fix: Copilot and ChatGLM bugfix
