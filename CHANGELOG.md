@@ -109,3 +109,7 @@ Summary
 
 ## 1.4.1 [2024.10.08]
 - fix: Copilot and ChatGLM bugfix
+
+## 1.5.0 [2024.10.18]
+- feat: primary color customization
+- feat: compatible with Chrome and Edge 130+
