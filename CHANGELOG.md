@@ -113,3 +113,7 @@ Summary
 ## 1.5.0 [2024.10.18]
 - feat: primary color customization
 - feat: compatible with Chrome and Edge 130+
+
+## 1.5.1 [2025.01.21]
+- feat: UX refine
+- fix: Kimi and Yuanbao bugfix
