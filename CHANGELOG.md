@@ -117,3 +117,7 @@ Summary
 ## 1.5.1 [2025.01.21]
 - feat: UX refine
 - fix: Kimi and Yuanbao bugfix
+
+## 1.6.0 [2025.02.07]
+- feat: Phind and Grok support
+- fix: bugfix
