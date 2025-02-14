@@ -6,13 +6,13 @@
 
 A browser extension aggregating numerous mainstream AI chat model platforms, supporting synchronous multi-platform chat. 
 
-Screenshot
+**Screenshot**
 [![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_en.jpg)](https://youtu.be/78zAtefoJbw)
 
-Screenshot
+**Screenshot**
 ![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot2_en.png)
 
-Screenshot
+**Screenshot**
 ![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot4_en.png)
 
 ### Features:
@@ -51,7 +51,7 @@ Independent development is not easy. If you like this extension or find it helpf
 
 | [Buy Me A Coffee](https://buymeacoffee.com/jackyrao) | [PayPal](https://paypal.me/jackyrao) | WeChat |
 |---------|---------|---------|
-| [![Buy Me A Coffee](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/bmc.png)](https://buymeacoffee.com/jackyrao) | [![PayPal](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/paypal.png)](https://paypal.me/jackyrao) | ![WeChat](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/wechat.png)
+| <a href="https://buymeacoffee.com/jackyrao" target="_blank"><img src="https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/bmc.png" width="200" alt="Buy Me A Coffee"></a> | <a href="https://paypal.me/jackyrao" target="_blank"><img src="https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/paypal.png" width="200" alt="PayPal"></a> | <img src="https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/wechat.png" width="200" alt="WeChat"> |
 
 ### Donors
 Thank you to our wonderful sponsors for the project! Your support helps keep it alive.
