@@ -6,10 +6,13 @@
 
 A browser extension aggregating numerous mainstream AI chat model platforms, supporting synchronous multi-platform chat. 
 
+Screenshot
 [![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_en.jpg)](https://youtu.be/78zAtefoJbw)
 
+Screenshot
 ![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot2_en.png)
 
+Screenshot
 ![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot4_en.png)
 
 ### Features:
@@ -46,13 +49,15 @@ This extension will not collect or leak any of your privacy data. Chat session s
 ### Donations
 Independent development is not easy. If you like this extension or find it helpful, buy me a cup of coffee!
 
-PayPal:
+| [Buy Me A Coffee](https://buymeacoffee.com/jackyrao) | [PayPal](https://paypal.me/jackyrao) | WeChat |
+|---------|---------|---------|
+| [![Buy Me A Coffee](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/bmc.png)](https://buymeacoffee.com/jackyrao) | [![PayPal](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/paypal.png)](https://paypal.me/jackyrao) | ![WeChat](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/wechat.png)
 
-![PayPal](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/paypal.png)
+### Donors
+Thank you to our wonderful sponsors for the project! Your support helps keep it alive.
 
-WeChat:
-
-![WeChat](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/wechat.png)
+- **❤️ cshuang201718**
+- **❤️ Adrien Feudjio**
 
 ### Note
 Due to personal time and cost limitations, not all versions of the models have been thoroughly tested. Your valuable feedback and suggestions are welcome!

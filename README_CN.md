@@ -4,10 +4,13 @@
 
 集合各大主流AI模型聊天平台，支持多平台同屏同步聊天的浏览器扩展。
 
+屏幕截图
 [![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_cn.jpg)](https://www.bilibili.com/video/BV1eD421N7vT/)
 
+屏幕截图
 ![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot2_cn.png)
 
+屏幕截图
 ![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot4_cn.png)
 
 ### 特点:
@@ -44,13 +47,16 @@
 ### 打赏
 独立开发不易，如果您喜欢本扩展或者觉得对您有所帮助，请我喝一杯咖啡吧！
 
-微信:
+| [Buy Me A Coffee](https://buymeacoffee.com/jackyrao) | [PayPal](https://paypal.me/jackyrao) | 微信 |
+|---------|---------|---------|
+| [![Buy Me A Coffee](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/bmc.png)](https://buymeacoffee.com/jackyrao) | [![PayPal](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/paypal.png)](https://paypal.me/jackyrao) | ![微信](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/wechat.png)
 
-![微信](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/wechat.png)
+### 赞助者
+感谢项目的赞助者！您的支持帮助我保持项目的持续发展
 
-PayPal:
+- **❤️ cshuang201718**
+- **❤️ Adrien Feudjio**
 
-![PayPal](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/paypal.png)
 
 ### 附
 由于个人时间及成本限制，未对所有版本的模型进行充分测试，欢迎提出宝贵的意见或建议！
