@@ -121,3 +121,9 @@ Summary
 ## 1.6.0 [2025.02.07]
 - feat: Phind and Grok support
 - fix: bugfix
+
+## 1.7.0 [2025.03.10]
+- feat: Felo, Lambda Chat, Qwen Chat, NaMi, NaMi Search, YueWen support
+- feat: Reka domain change
+- feat: add donation entry
+- fix: bugfix

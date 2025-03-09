@@ -39,13 +39,13 @@
 - 需要登陆的平台请先完成登陆操作，再从扩展中打开
 
 ### 支持的平台
-[ChatGPT](https://chatgpt.com/) / [Copilot](https://copilot.microsoft.com/) / [Gemini](https://gemini.google.com/) / [Meta](https://www.meta.ai/) / [Mistral](https://chat.mistral.ai/chat) / [Reka](https://chat.reka.ai/chat) / [Grok](https://grok.com/) / [Poe](https://poe.com/) / [Coze](https://www.coze.com/) / [Perplexity](https://www.perplexity.ai/) / [You.com](https://you.com/) / [Liner](https://getliner.com/) / [Phind](https://www.phind.com/) / [Jamba](https://studio.ai21.com/home/chat/single-chat) / [krutrim](https://chat.olakrutrim.com/) / [扣子](https://www.coze.cn/) / [通义千问](https://tongyi.aliyun.com/qianwen/) / [天工](https://www.tiangong.cn/chat/universal/016) / [智谱清言](https://chatglm.cn/) / [豆包](https://www.doubao.com/) / [混元](https://hunyuan.tencent.com/bot/) / [DeepSeek](https://chat.deepseek.com/) / [Kimi](https://kimi.moonshot.cn/) / [商量](https://chat.sensetime.com/wb/chat/) / [文心一言](https://yiyan.baidu.com/) / [360智脑](https://chat.360.com/) / [百川](https://www.baichuan-ai.com/chat) / [海螺](https://hailuoai.com/) / [万知](https://www.wanzhi.com/) / [秘塔AI搜索](https://metaso.cn/)
+[ChatGPT](https://chatgpt.com/) / [Copilot](https://copilot.microsoft.com/) / [Gemini](https://gemini.google.com/) / [Meta](https://www.meta.ai/) / [Mistral](https://chat.mistral.ai/chat) / [Reka](https://chat.reka.ai/chat) / [Grok](https://grok.com/) / [Poe](https://poe.com/) / [Coze](https://www.coze.com/) / [Perplexity](https://www.perplexity.ai/) / [You.com](https://you.com/) / [Liner](https://getliner.com/) / [Phind](https://www.phind.com/) / [Jamba](https://studio.ai21.com/home/chat/single-chat) / [krutrim](https://chat.olakrutrim.com/) / [扣子](https://www.coze.cn/) / [通义千问](https://tongyi.aliyun.com/qianwen/) / [天工](https://www.tiangong.cn/chat/universal/016) / [智谱清言](https://chatglm.cn/) / [豆包](https://www.doubao.com/) / [混元](https://hunyuan.tencent.com/bot/) / [DeepSeek](https://chat.deepseek.com/) / [Kimi](https://kimi.moonshot.cn/) / [商量](https://chat.sensetime.com/wb/chat/) / [文心一言](https://yiyan.baidu.com/) / [360智脑](https://chat.360.com/) / [百川](https://www.baichuan-ai.com/chat) / [海螺](https://hailuoai.com/) / [万知](https://www.wanzhi.com/) / [秘塔AI搜索](https://metaso.cn/) ......
 
 ### 隐私声明
 本扩展不会收集和泄漏您的任何隐私数据，聊天会话服务均来自于平台官网
 
 ### 打赏
-独立开发不易，如果您喜欢本扩展或者觉得对您有所帮助，请我喝一杯咖啡吧！
+开发维护不易，如果您喜欢本扩展或者觉得对您有所帮助，请我喝一杯咖啡吧！
 
 | [Buy Me A Coffee](https://buymeacoffee.com/jackyrao) | [PayPal](https://paypal.me/jackyrao) | 微信 |
 |---------|---------|---------|
