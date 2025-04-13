@@ -127,3 +127,10 @@ Summary
 - feat: Reka domain change
 - feat: add donation entry
 - fix: bugfix
+
+## 1.8.0 [2025.04.13]
+- feat: chat grouping support
+- feat: UX redesign
+- feat: remove Jamba and Krutrim support
+- fix: HaiLuo and Claude bugfix
+- fix: bugfix
