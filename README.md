@@ -7,7 +7,7 @@
 A browser extension aggregating numerous mainstream AI chat model platforms, supporting synchronous multi-platform chat. 
 
 **Screenshot**
-![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_en.jpg)
+![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_en.png)
 
 **Screenshot**
 ![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot2_en.png)
