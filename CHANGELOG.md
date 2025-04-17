@@ -134,3 +134,8 @@ Summary
 - feat: remove Jamba and Krutrim support
 - fix: HaiLuo and Claude bugfix
 - fix: bugfix
+
+## 1.8.1 [2025.04.17]
+- feat: Copilot(GH) support
+- feat: remove Coze and CozeCN support
+- fix: bugfix
