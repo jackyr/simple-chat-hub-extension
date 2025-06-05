@@ -9,6 +9,11 @@ Summary
   5. version timestamp follow the yyyy.MM.dd format
 ```
 
+## 1.8.3 [2025.06.05]
+- feat: Genspark support
+- fix: Kimi and TianGong domain change
+- fix: Liner bugfix
+
 ## 1.8.2 [2025.04.25]
 - fix: Qwen and YueWen bugfix
 - fix: bugfix
