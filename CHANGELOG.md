@@ -9,6 +9,9 @@ Summary
   5. version timestamp follow the yyyy.MM.dd format
 ```
 
+## 1.9.1 [2025.08.21]
+- fix: bugfix
+
 ## 1.9.0 [2025.08.20]
 - feat: tab drag and drop support
 - feat: Z.ai support
