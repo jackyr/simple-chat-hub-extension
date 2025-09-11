@@ -9,6 +9,10 @@ Summary
   5. version timestamp follow the yyyy.MM.dd format
 ```
 
+## 1.9.2 [2025.09.11]
+- feat: UX refine
+- fix: Mistral, DeepSeek and TianGong bugfix
+
 ## 1.9.1 [2025.08.21]
 - fix: bugfix
 
