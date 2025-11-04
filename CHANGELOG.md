@@ -9,6 +9,10 @@ Summary
   5. version timestamp follow the yyyy.MM.dd format
 ```
 
+## 1.9.3 [2025.11.04]
+- feat: remove Lambda Chat support
+- fix: MiniMax and Liner domain change
+
 ## 1.9.2 [2025.09.11]
 - feat: UX refine
 - fix: Mistral, DeepSeek and TianGong bugfix
