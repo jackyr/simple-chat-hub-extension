@@ -9,6 +9,9 @@ Summary
   5. version timestamp follow the yyyy.MM.dd format
 ```
 
+## 1.9.4 [2025.11.19]
+- fix: Grok bugfix
+
 ## 1.9.3 [2025.11.04]
 - feat: remove Lambda Chat support
 - fix: MiniMax and Liner domain change
