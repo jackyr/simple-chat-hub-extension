@@ -9,6 +9,9 @@ Summary
   5. version timestamp follow the yyyy.MM.dd format
 ```
 
+## 1.9.5 [2025.11.22]
+- fix: Qwen domain change
+
 ## 1.9.4 [2025.11.19]
 - fix: Grok bugfix
 
