@@ -14,7 +14,7 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 
 ### Features:
 - One-click message sending to multiple platforms and synchronous receipt of replies, facilitating cross-referencing and comparison between platforms.
-- Supports a wide range of popular AI model chat platforms, with ongoing expansion.
+- Supports a wide range of popular AI model chat platforms, and also supports for customization.
 - Integrates platform official websites, no need to provide API Key.
 - Customizable number and order of platform windows displayed on the screen.
 - Can independently operate chat sessions in each platform window.
@@ -38,7 +38,9 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 - For platforms that require login, please complete the login operation first before opening them from the extension.
 
 ### Supported platform
-[ChatGPT](https://chatgpt.com/) / [Copilot](https://copilot.microsoft.com/) / [Gemini](https://gemini.google.com/) / [Claude](https://claude.ai/) / [Meta AI](https://www.meta.ai/) / [Mistral](https://chat.mistral.ai/chat) / [Reka](https://chat.reka.ai/chat) / [Grok](https://grok.com/) / [Poe](https://poe.com/) / [Perplexity](https://www.perplexity.ai/) / [You.com](https://you.com/) / [Liner](https://getliner.com/) / [Phind](https://www.phind.com/) / [Qwen](https://tongyi.aliyun.com/qianwen/) / [TianGong](https://www.tiangong.cn/chat/universal/016) / [ChatGLM](https://chatglm.cn/) / [DouBao](https://www.doubao.com/) / [HunYuan](https://hunyuan.tencent.com/bot/) / [DeepSeek](https://chat.deepseek.com/) / [Kimi](https://kimi.moonshot.cn/) / [SenseChat](https://chat.sensetime.com/wb/chat/) / [Ernie Bot](https://yiyan.baidu.com/) / [360ZhiNao](https://chat.360.com/) / [BaiChuan](https://ying.baichuan-ai.com/chat) / [HaiLuo AI](https://hailuoai.com/) / [WanZhi](https://www.wanzhi.com/) / [MetaSo](https://metaso.cn/) ...
+ChatGPT / Copilot / Gemini / Meta / Mistral / Grok / Poe / Perplexity / You.com / Liner / Phind / Qwen / ChatGLM / DouBao / YuanBao / DeepSeek / Kimi / Ernie Bot / MetaSo ...
+
+[Custom Config Example](https://github.com/jackyr/simple-chat-hub-extension/blob/main/CUSTOM_CONFIG_EXAMPLE.md)
 
 ### Privacy Statement
 This extension will not collect or leak any of your privacy data. Chat session services are provided by platform official websites.
@@ -53,8 +55,11 @@ Developing and maintaining this is not easy. If you like this extension or find 
 ### Donors
 Thank you to our wonderful sponsors for the project! Your support helps keep it alive.
 
+Some anonymous donors cannot be listed here. If you would like your name to be included, please leave it in the note when making your donation.
+
 - **❤️ cshuang201718**
 - **❤️ Adrien Feudjio**
+- **❤️ L*I**
 
 ### Note
 Due to personal time and cost limitations, not all versions of the models have been thoroughly tested. Your valuable feedback and suggestions are welcome!

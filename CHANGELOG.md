@@ -9,6 +9,13 @@ Summary
   5. version timestamp follow the yyyy.MM.dd format
 ```
 
+## 2.0.0 [2025.12.22]
+- feat: custom config support
+- feat: code refactoring and refine
+- feat: add LingGuang and LongCat support
+- feat: remove BaiChuan, TianGong, WanZhi, NaMi, ZhiNao support
+- feat: update built-in configs
+
 ## 1.9.5 [2025.11.22]
 - fix: Qwen domain change
 
