@@ -55,11 +55,12 @@ Developing and maintaining this is not easy. If you like this extension or find 
 ### Donors
 Thank you to our wonderful sponsors for the project! Your support helps keep it alive.
 
-Some anonymous donors cannot be listed here. If you would like your name to be included, please leave it in the note when making your donation.
-
 - **❤️ cshuang201718**
 - **❤️ Adrien Feudjio**
 - **❤️ L*I**
+- **❤️ huyz**
+
+Some anonymous donors cannot be listed here. If you would like your name to be included, please leave it in the note when making your donation.
 
 ### Note
 Due to personal time and cost limitations, not all versions of the models have been thoroughly tested. Your valuable feedback and suggestions are welcome!

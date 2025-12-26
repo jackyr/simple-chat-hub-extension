@@ -1,4 +1,4 @@
-### Custom Config Example
+### Custom Config Example 自定义配置示例
 
 | Name | URL | Input Selector | Send Button Selector |
 |---------|---------|---------|---------|
@@ -12,3 +12,5 @@
 | 360智脑 | https://chat.360.com/ | - | - |
 
 You’re welcome to share your custom configs in the Issues section; they will be listed here for others to reference.
+
+欢迎在Issues中分享你的自定义配置，以供他人参考。
