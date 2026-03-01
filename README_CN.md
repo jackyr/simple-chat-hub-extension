@@ -36,7 +36,7 @@
 - 需要登陆的平台请先完成登陆操作，再从扩展中打开
 
 ### 支持的平台
-ChatGPT / Copilot / Gemini / Meta / Mistral / Grok / Poe / Perplexity / You.com / Liner / Phind / 千问 / 智谱清言 / 豆包 / 元宝 / DeepSeek / Kimi / 文心一言 / 秘塔AI搜索 ......
+ChatGPT / Copilot / Gemini / Meta / Mistral / Grok / Poe / Perplexity / You.com / Liner / 千问 / 智谱清言 / 豆包 / 元宝 / DeepSeek / Kimi / 文心一言 / 秘塔AI搜索 ......
 
 [自定义配置示例](https://github.com/jackyr/simple-chat-hub-extension/blob/main/CUSTOM_CONFIG_EXAMPLE.md)
 

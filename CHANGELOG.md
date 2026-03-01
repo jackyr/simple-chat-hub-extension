@@ -9,6 +9,14 @@ Summary
   5. version timestamp follow the yyyy.MM.dd format
 ```
 
+## 2.1.0 [2026.03.01]
+- feat: multiple layouts support
+- feat: prompt shortcut key support
+- feat: code refactoring
+- feat: remove Phind support
+- feat: UX refine
+- fix: bugfix
+
 ## 2.0.0 [2025.12.22]
 - feat: custom config support
 - feat: code refactoring and refine
