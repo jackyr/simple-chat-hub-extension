@@ -9,6 +9,12 @@ Summary
   5. version timestamp follow the yyyy.MM.dd format
 ```
 
+## 2.2.0 [2026.03.06]
+
+- feat: Firefox support
+- feat: update built-in configs
+- fix: bugfix
+
 ## 2.1.0 [2026.03.01]
 - feat: multiple layouts support
 - feat: prompt shortcut key support

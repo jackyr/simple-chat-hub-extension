@@ -57,8 +57,9 @@ Thank you to our wonderful sponsors for the project! Your support helps keep it 
 
 - **❤️ cshuang201718**
 - **❤️ Adrien Feudjio**
-- **❤️ L*I**
+- **❤️ L\*I**
 - **❤️ huyz**
+- **❤️ \*宝**
 
 Some anonymous donors cannot be listed here. If you would like your name to be included, please leave it in the note when making your donation.
 
