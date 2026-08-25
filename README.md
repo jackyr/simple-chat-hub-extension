@@ -38,7 +38,7 @@ A browser extension aggregating numerous mainstream AI chat model platforms, sup
 - For platforms that require login, please complete the login operation first before opening them from the extension.
 
 ### Supported platform
-ChatGPT / Copilot / Gemini / Meta / Mistral / Grok / Poe / Perplexity / You.com / Liner / Qwen / ChatGLM / DouBao / YuanBao / DeepSeek / Kimi / Ernie Bot / MetaSo ...
+ChatGPT / Copilot / Gemini / Meta / Mistral / Grok / Poe / Perplexity / Liner / Qwen / ChatGLM / DouBao / YuanBao / DeepSeek / Kimi / Ernie Bot / MetaSo ...
 
 [Custom Config Example](https://github.com/jackyr/simple-chat-hub-extension/blob/main/CUSTOM_CONFIG_EXAMPLE.md)
 
@@ -61,6 +61,7 @@ Thank you to our wonderful sponsors for the project! Your support helps keep it 
 - **❤️ huyz**
 - **❤️ \*宝**
 - **❤️ baijunyao**
+- **❤️ \*.**
 
 Some anonymous donors cannot be listed here. If you would like your name to be included, please leave it in the note when making your donation.
 

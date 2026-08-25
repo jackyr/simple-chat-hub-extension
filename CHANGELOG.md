@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2.5.0 [2026.08.24]
+
+- feat: send bar position adjustment support
+- feat: UX refine
+- feat: remove You.com support
+- fix: Mistral, YueWen and YiYan bugfix
+- fix: bugfix
+
 ## 2.4.0 [2026.04.06]
 
 - feat: custom shortcuts support

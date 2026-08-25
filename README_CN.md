@@ -36,7 +36,7 @@
 - 需要登陆的平台请先完成登陆操作，再从扩展中打开
 
 ### 支持的平台
-ChatGPT / Copilot / Gemini / Meta / Mistral / Grok / Poe / Perplexity / You.com / Liner / 千问 / 智谱清言 / 豆包 / 元宝 / DeepSeek / Kimi / 文心一言 / 秘塔AI搜索 ......
+ChatGPT / Copilot / Gemini / Meta / Mistral / Grok / Poe / Perplexity / Liner / 千问 / 智谱清言 / 豆包 / 元宝 / DeepSeek / Kimi / 文心一言 / 秘塔AI搜索 ......
 
 [自定义配置示例](https://github.com/jackyr/simple-chat-hub-extension/blob/main/CUSTOM_CONFIG_EXAMPLE.md)
 
@@ -55,10 +55,11 @@ ChatGPT / Copilot / Gemini / Meta / Mistral / Grok / Poe / Perplexity / You.com 
 
 - **❤️ cshuang201718**
 - **❤️ Adrien Feudjio**
-- **❤️ L*I**
+- **❤️ L\*I**
 - **❤️ huyz**
 - **❤️ \*宝**
 - **❤️ baijunyao**
+- **❤️ \*.**
 
 有一些匿名捐助者无法在此处被记录，如果您希望留下您的名字，请在捐助时备注
 
