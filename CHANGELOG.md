@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2.6.0 [2026.10.14]
+
+- feat: file upload support
+- feat: code refactoring and refine
+- feat: add Zhihu Zhida and DianDian
+- feat: UX refine
+- fix: bugfix
+
 ## 2.5.0 [2026.08.24]
 
 - feat: send bar position adjustment support

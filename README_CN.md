@@ -38,8 +38,6 @@
 ### 支持的平台
 ChatGPT / Copilot / Gemini / Meta / Mistral / Grok / Poe / Perplexity / Liner / 千问 / 智谱清言 / 豆包 / 元宝 / DeepSeek / Kimi / 文心一言 / 秘塔AI搜索 ......
 
-[自定义配置示例](https://github.com/jackyr/simple-chat-hub-extension/blob/main/CUSTOM_CONFIG_EXAMPLE.md)
-
 ### 隐私声明
 本扩展不会收集和泄漏您的任何隐私数据，聊天会话服务均来自于平台官网
 
@@ -60,6 +58,9 @@ ChatGPT / Copilot / Gemini / Meta / Mistral / Grok / Poe / Perplexity / Liner / 
 - **❤️ \*宝**
 - **❤️ baijunyao**
 - **❤️ \*.**
+- **❤️ \*干**
+- **❤️ \*泽**
+- **❤️ \*龍**
 
 有一些匿名捐助者无法在此处被记录，如果您希望留下您的名字，请在捐助时备注
 
