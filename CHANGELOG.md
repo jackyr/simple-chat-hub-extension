@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2.6.1 [2026.10.18]
+
+- feat: external link call support
+- feat: error handling optimization
+- feat: add Kimi.ai, MiniMax Agent and Dola
+- fix: Copilot domain change
+- fix: bugfix
+
 ## 2.6.0 [2026.10.14]
 
 - feat: file upload support
