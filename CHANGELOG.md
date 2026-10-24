@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2.7.0 [2026.10.24]
+
+- feat: add workspace layout
+- feat: custom column width support
+- feat: pasting files support
+- feat: UI & UX upgrade
+- feat: add Z.ai (CN)
+
 ## 2.6.1 [2026.10.18]
 
 - feat: external link call support

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="#1765e8">
+  <title>Simple Chat Hub</title>
+  <path fill-rule="evenodd" d="M42 12h44c17.673 0 32 14.327 32 32v32c0 17.673-14.327 32-32 32H48l-25.2 12.6c-3.55 1.775-7.48-1.535-6.335-5.335l3.99-13.24A31.91 31.91 0 0 1 10 78V44c0-17.673 14.327-32 32-32Zm4 26a7 7 0 0 1 7 7v11h22V45a7 7 0 0 1 14 0v34a7 7 0 0 1-14 0V68H53v11a7 7 0 0 1-14 0V45a7 7 0 0 1 7-7Z" clip-rule="evenodd"/>
+</svg>

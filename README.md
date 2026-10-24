@@ -1,70 +1,86 @@
-# simple-chat-hub
+<p align="center">
+  <img src="assets/logo.svg" width="72" height="72" alt="Simple Chat Hub logo">
+</p>
 
-[中文Readme](https://github.com/jackyr/simple-chat-hub-extension/blob/main/README_CN.md)
+# Simple Chat Hub
 
-### [Homepage](https://chathub.aipilot.cc/)
+**Your favorite AIs. One simple place.**
 
-A browser extension aggregating numerous mainstream AI chat model platforms, supporting synchronous multi-platform chat. 
+[Website](https://chathub.aipilot.cc/?lang=en) · [Feedback](https://chathub.aipilot.cc/feedback?lang=en) · [Changelog](CHANGELOG.md)
 
-**Screenshot**
-![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot_en.png)
+**[English](README.md)** · [简体中文](README_CN.md) · [繁體中文](README_TW.md) · [Español](README_ES.md) · [العربية](README_AR.md) · [Русский](README_RU.md) · [Français](README_FR.md) · [Deutsch](README_DE.md) · [Português (Portugal)](README_PT_PT.md) · [Português (Brasil)](README_PT_BR.md) · [日本語](README_JA.md) · [한국어](README_KO.md)
 
-**Screenshot**
-![Simple Chat Hub](https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/screenshots/screenshot2_en.png)
+Simple Chat Hub brings ChatGPT, Gemini, DeepSeek and other AI platforms into one workspace. Chat on the familiar original websites, or send the same question to several AIs and read their answers side by side for different perspectives.
 
-### Features:
-- One-click message sending to multiple platforms and synchronous receipt of replies, facilitating cross-referencing and comparison between platforms.
-- Supports a wide range of popular AI model chat platforms, and also supports for customization.
-- Integrates platform official websites, no need to provide API Key.
-- Customizable number and order of platform windows displayed on the screen.
-- Can independently operate chat sessions in each platform window.
-- Custom prompt library, retrieve prompts with one click.
-- Supports prompt intelligent optimization.
-- Screenshot sharing, supports long screenshots.
-- Supports light/dark theme switching. Supports international language switching.
-- The extension does not require registration and is free to use.
+Less searching for a starting point. Fewer tabs to switch. Make everyday AI a little easier.
 
-### Install
-- [Recommended] Install from [Chrome Web Store](https://chromewebstore.google.com/detail/dpfkgaedamhcmkkgeiajeggihmfjhhlj) / [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/simple-chat-hub/plaobjkecadfmaglmhdaolohmckjgnom) / [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/simple-chat-hub/)
-- Download install
-  1. Download the project ZIP file to your local computer and extract it to obtain the CRX file
-  2. Open the Extensions page and enable "Developer mode".
-    - Chrome (chrome://extensions/)
-    - Edge (edge://extensions/)
-  3. Drag the CRX file to the Chrome Extensions page to complete the installation
+![Simple Chat Hub workspace with ChatGPT, Gemini and DeepSeek answering an English question](screenshots/workspace-writing-en.png)
 
-### Instructions for Use
-- Please ensure that your network can access the official websites of AI model chat platforms normally.
-- For platforms that require login, please complete the login operation first before opening them from the extension.
+Actual product screenshot with the new workspace layout and logo, using real conversations on ChatGPT, Gemini and DeepSeek.
 
-### Supported platform
-ChatGPT / Copilot / Gemini / Meta / Mistral / Grok / Poe / Perplexity / Liner / Qwen / ChatGLM / DouBao / YuanBao / DeepSeek / Kimi / Ernie Bot / MetaSo ...
+## Features
 
-### Privacy Statement
-This extension will not collect or leak any of your privacy data. Chat session services are provided by platform official websites.
+- **One place. Ask together.** Keep your go-to platforms close. Chat with each one independently, or type once to ask several platforms together and follow up with each one separately.
+- **Spaces for your tasks.** Save different platform combinations for writing, research and everyday use. Give spaces your own names and icons, and organize pages with groups and tabs.
+- **Room for the answer.** Drag column borders to adjust widths, reorder columns and tabs, or collapse the sidebar for easier reading.
+- **Good prompts, ready again.** Save useful instructions in your prompt library, call them up when needed, or use prompt optimization to express an idea more clearly.
+- **Chats saved as one long image.** Capture a conversation from a single platform, then open a local preview for revisiting, organizing and sharing.
+- **Fewer repeated actions.** Use custom keyboard shortcuts and send file attachments through the shared input on compatible platforms.
+- **Launch from other tools.** Add a space launch link to Alfred or another launcher to open Hub with a question, ready to edit or send automatically.
+- **Keep your familiar accounts.** Open the original AI websites, add custom sites, and switch between light and dark themes and 12 interface languages. No Hub account or API key is required. The extension is free.
 
-### Donations
+## Install
+
+Install from your browser's official extension store:
+
+- [Chrome Web Store](https://chromewebstore.google.com/detail/dpfkgaedamhcmkkgeiajeggihmfjhhlj)
+- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/simple-chat-hub/plaobjkecadfmaglmhdaolohmckjgnom)
+- [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/simple-chat-hub/)
+
+For offline installation, download a packaged file from the [repository file list](https://github.com/jackyr/simple-chat-hub-extension): `.crx.zip` for Chrome / Edge or `.xpi.zip` for Firefox. Extract the archive before installing. Manual installation is subject to browser and operating system restrictions; store installation is recommended.
+
+## Get started
+
+1. Install the extension and open Simple Chat Hub.
+2. Choose your favorite platforms and arrange them into spaces.
+3. Sign in where needed, then chat on each platform or use the shared input to ask several AIs together.
+
+AI platform accounts, subscriptions, usage limits and network requirements are set by each platform. Page embedding, shared sending, file sending and capture support depend on the platform, login state and network environment. If a platform needs sign-in or verification, complete it in a separate tab first.
+
+## Open Hub from Alfred or another launcher
+
+1. Hover over the desired space in the sidebar and choose **Copy launch link** from its menu.
+2. Paste the copied link into your launcher's URL action. It already contains your installation's Hub address and the selected platforms.
+3. Have the launcher replace `{query}` with the question, URL-encoded once, and open a **new tab** in the browser and profile where the extension is installed.
+4. The copied link includes `send=1` to send after the platforms are ready. Remove `send=1` to fill the shared input without sending.
+
+Use your own copied link: extension addresses vary between browsers, profiles and installation methods. See the [website FAQ](https://chathub.aipilot.cc/?lang=en#faq) for more help.
+
+## Platforms
+
+Built-in platforms include ChatGPT, Gemini, Claude, DeepSeek, Copilot, Grok, Perplexity, Qwen, Kimi, Doubao, Yuanbao, Mistral, Meta and Z.ai, among others. You can also add custom websites in Settings.
+
+## Data and privacy
+
+- Spaces, saved prompts, shortcuts and preferences are stored in browser extension storage.
+- Questions, attachments and conversations sent to AI platforms are handled by those platforms under their own policies.
+- When you use prompt optimization, the current prompt is sent to the extension's optimization service.
+- The extension requests configuration and version information and sends an installation identifier, usage events and error information for usage statistics and troubleshooting. Feedback and surveys send the submitted information.
+
+## Feedback
+
+Report a problem or suggest an improvement through the [feedback page](https://chathub.aipilot.cc/feedback?lang=en) or [GitHub Issues](https://github.com/jackyr/simple-chat-hub-extension/issues). For a bug report, include the platform, browser, extension version and steps to reproduce it.
+
+## Donations
+
 Developing and maintaining this is not easy. If you like this extension or find it helpful, buy me a cup of coffee!
 
-| [Buy Me A Coffee](https://buymeacoffee.com/jackyrao) | [PayPal](https://paypal.me/jackyrao) | WeChat |
-|---------|---------|---------|
-| <a href="https://buymeacoffee.com/jackyrao" target="_blank"><img src="https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/bmc.png" width="200" alt="Buy Me A Coffee"></a> | <a href="https://paypal.me/jackyrao" target="_blank"><img src="https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/paypal.png" width="200" alt="PayPal"></a> | <img src="https://raw.githubusercontent.com/jackyr/simple-chat-hub-extension/main/qrcodes/wechat.png" width="200" alt="WeChat"> |
+| [Buy Me A Coffee](https://buymeacoffee.com/jackyrao)                                                                          | [PayPal](https://paypal.me/jackyrao)                                                                             | WeChat                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| <a href="https://buymeacoffee.com/jackyrao" target="_blank"><img src="qrcodes/bmc.png" width="200" alt="Buy Me A Coffee"></a> | <a href="https://paypal.me/jackyrao" target="_blank"><img src="qrcodes/paypal.png" width="200" alt="PayPal"></a> | <img src="qrcodes/wechat.png" width="200" alt="WeChat"> |
 
-### Donors
+## Donors
+
 Thank you to our wonderful sponsors for the project! Your support helps keep it alive.
 
-- **❤️ cshuang201718**
-- **❤️ Adrien Feudjio**
-- **❤️ L\*I**
-- **❤️ huyz**
-- **❤️ \*宝**
-- **❤️ baijunyao**
-- **❤️ \*.**
-- **❤️ \*干**
-- **❤️ \*泽**
-- **❤️ \*龍**
-
-Some anonymous donors cannot be listed here. If you would like your name to be included, please leave it in the note when making your donation.
-
-### Note
-Due to personal time and cost limitations, not all versions of the models have been thoroughly tested. Your valuable feedback and suggestions are welcome!
+[View the donor list](DONORS.md)
