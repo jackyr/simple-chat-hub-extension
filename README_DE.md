@@ -4,32 +4,44 @@
 
 # Simple Chat Hub
 
-**Deine liebsten KIs. Ein gemeinsamer Ort.**
+**Einmal fragen. KI-Antworten nebeneinander.**
 
 [Website](https://chathub.aipilot.cc/?lang=de) · [Feedback](https://chathub.aipilot.cc/feedback?lang=de) · [Änderungsprotokoll](CHANGELOG.md)
 
 [English](README.md) · [简体中文](README_CN.md) · [繁體中文](README_TW.md) · [Español](README_ES.md) · [العربية](README_AR.md) · [Русский](README_RU.md) · [Français](README_FR.md) · **[Deutsch](README_DE.md)** · [Português (Portugal)](README_PT_PT.md) · [Português (Brasil)](README_PT_BR.md) · [日本語](README_JA.md) · [한국어](README_KO.md)
 
-Simple Chat Hub bringt ChatGPT, Gemini, DeepSeek und weitere KI-Plattformen in einen Arbeitsbereich. Chatte auf den vertrauten Originalseiten oder sende dieselbe Frage an mehrere KIs und lies ihre Antworten nebeneinander, um verschiedene Blickwinkel kennenzulernen.
+Simple Chat Hub zeigt die Websites von ChatGPT, Gemini, DeepSeek, Doubao, Kimi und weiteren KI-Plattformen nebeneinander in einem Fenster. Schreibe deine Frage einmal ins gemeinsame Eingabefeld: Alle Plattformen erhalten sie und antworten. Chatte dort weiter, wo du mehr erfahren möchtest.
 
-Weniger nach dem Einstieg suchen, weniger Tabs wechseln. So wird KI im Alltag etwas einfacher.
+Du nutzt die Websites der Plattformen mit deinen bereits angemeldeten Konten. Weder ein API-Key noch ein Simple-Chat-Hub-Konto ist nötig.
 
 ![Simple Chat Hub mit ChatGPT, Gemini und DeepSeek, die eine Frage auf Deutsch beantworten](screenshots/workspace-writing-de.png)
 
-Echter Produkt-Screenshot mit dem neuen Bereichslayout und Logo sowie echten Gesprächen auf ChatGPT, Gemini und DeepSeek.
+Echte Produktoberfläche
+
+## So kannst du es nutzen
+
+- **Ein Konzept verstehen.** Frage etwa nach dem Unterschied zwischen Korrelation und Kausalität. Vergleiche Beispiele und Erklärungen und frage dort nach, wo die Erklärung am klarsten ist.
+- **Informationen aufbereiten.** Gib mehreren KIs denselben Team-Wochenbericht. Vergleiche Kernaussagen und offene Fragen und prüfe sie anhand der Originalunterlagen.
+- **Technische Probleme untersuchen.** Frage, warum eine Seite dieselbe API-Anfrage zweimal sendet. Vergleiche Ansätze zur Fehlersuche und vertiefe einen davon.
 
 ## Funktionen
 
-- **Ein Ort. Gemeinsam fragen.** Halte deine bevorzugten Plattformen griffbereit. Chatte mit jeder einzeln oder stelle eine Frage einmal an mehrere KIs und führe die Gespräche anschließend unabhängig weiter.
-- **Bereiche für deine Aufgaben.** Speichere verschiedene Plattformkombinationen für Schreiben, Recherche und Alltag. Vergib eigene Namen und Symbole für Bereiche und ordne Seiten in Gruppen und Tabs.
-- **Mehr Platz für Antworten.** Ziehe Spaltenränder, um die Breite anzupassen, ordne Spalten und Tabs neu oder klappe die Seitenleiste zum bequemeren Lesen ein.
-- **Gute Prompts, jederzeit wieder bereit.** Speichere hilfreiche Anweisungen in deiner Prompt-Bibliothek und rufe sie bei Bedarf auf. Mit der Prompt-Optimierung kannst du eine Idee klarer ausdrücken.
-- **Gespräche als ein langes Bild speichern.** Erfasse ein Gespräch einer einzelnen Plattform und öffne eine lokale Vorschau, um es später anzusehen, zu ordnen oder zu teilen.
-- **Weniger wiederholte Handgriffe.** Lege eigene Tastenkürzel fest und sende auf kompatiblen Plattformen Dateianhänge über das gemeinsame Eingabefeld.
-- **Aus anderen Tools starten.** Füge den Startlink eines Bereichs in Alfred oder einen anderen Launcher ein, um Hub mit einer Frage zu öffnen. Du kannst sie weiterbearbeiten oder automatisch senden lassen.
-- **Vertraute Konten weiterverwenden.** Öffne die Originalseiten der KI-Plattformen, füge eigene Websites hinzu und wähle zwischen hellem und dunklem Design sowie 12 Oberflächensprachen. Du brauchst weder ein Hub-Konto noch einen API-Key. Die Erweiterung ist kostenlos.
+- **Einmal fragen, nebeneinander vergleichen.** Sende dieselbe Frage über das gemeinsame Eingabefeld an alle Plattformen im aktuellen Bereich. Lies Antworten nebeneinander. Dateien lassen sich auswählen, einfügen oder hineinziehen.
+- **Einzeln weiterchatten.** Jede Plattform behält ihren eigenen Gesprächskontext. Frage im jeweiligen Eingabefeld nach oder nutze nur eine Plattform.
+- **Bereiche nach Aufgabe.** Speichere verschiedene Plattformkombinationen für Lernen, Analyse oder Programmierung. Vergib Namen und Symbole und wechsle per Tastenkürzel. Nutze mehrere Tabs pro Spalte, verändere Spaltenbreiten oder klappe die Seitenleiste ein.
+- **Unterhaltungen speichern und fortsetzen.** Sichere die aktuellen Gesprächslinks und die Anordnung der Plattformen und kehre mit einem Klick zurück.
+- **Prompt-Bibliothek.** Speichere häufige Anweisungen und füge sie per Klick oder Tastenkürzel ein. Die Prompt-Optimierung hilft, Ideen klarer auszudrücken.
+- **Lange Screenshots.** Speichere ein vollständiges Gespräch einer Plattform als langes Bild in einer Breite für Desktop oder Smartphone.
+- **Aus anderen Tools starten.** Kopiere im Bereichsmenü einen Aufruflink für Alfred oder einen anderen Starter. Öffne Hub mit einer Frage und sende sie automatisch oder trage sie nur ein.
+- **Weitere Details.** Über 30 integrierte KI-Plattformen aus China und anderen Ländern sowie eigene Websites. Anpassbare Tastenkürzel, helle und dunkle Themes und 12 Oberflächensprachen.
 
 ## Installation
+
+**Desktop-App** · Windows / macOS / Linux
+
+[App herunterladen](https://chathub.aipilot.cc/?lang=de#download) · [GitHub Releases](https://github.com/jackyr/simple-chat-hub-extension/releases)
+
+Die Installationsdateien für macOS und Windows sind derzeit nicht mit einem Entwicklerzertifikat signiert. Die macOS-Version wurde außerdem nicht von Apple notarisiert. Bei der ersten Installation oder beim ersten Öffnen kann das System melden, dass der Entwickler oder Herausgeber nicht verifiziert werden kann. Lade die Installationsdateien von der offiziellen Downloadseite oder aus dem Bereich GitHub Releases dieses Projekts herunter. Öffne unter macOS die DMG-Datei und verschiebe die App in „Programme“. Falls der erste Start blockiert wird, prüfe, ob du der Downloadquelle vertraust. Öffne dann „Systemeinstellungen → Datenschutz & Sicherheit“, scrolle zu „Sicherheit“ und wähle „Dennoch öffnen“. Bestätige das Öffnen und authentifiziere dich bei Aufforderung.
 
 Installiere die Erweiterung aus dem offiziellen Store deines Browsers:
 
@@ -41,11 +53,12 @@ Für eine Offline-Installation lade ein Paket aus der [Dateiliste des Repository
 
 ## Erste Schritte
 
-1. Installiere die Erweiterung und öffne Simple Chat Hub.
-2. Wähle deine bevorzugten Plattformen und ordne sie in Bereichen an.
-3. Melde dich bei Bedarf an. Chatte dann auf jeder Plattform oder nutze das gemeinsame Eingabefeld, um mehrere KIs gleichzeitig zu fragen.
+1. Installiere die Erweiterung und klicke auf das Simple-Chat-Hub-Symbol in der Browserleiste.
+2. Melde dich in den Spalten bei den gewünschten Plattformen an. Falls das dort nicht klappt, melde dich in einem neuen Browser-Tab an und lade die Spalte neu.
+3. Wähle deine Plattformkombination und speichere sie als Bereich.
+4. Stelle eine Frage im gemeinsamen Eingabefeld, lies die Antworten nebeneinander und frage auf der gewünschten Plattform weiter.
 
-Konten, Abonnements, Nutzungslimits und Netzwerkanforderungen bestimmt jede KI-Plattform selbst. Das Einbetten von Seiten, das gemeinsame Senden, der Dateiversand und Gesprächsaufnahmen hängen von der Plattform, dem Anmeldestatus und der Netzwerkumgebung ab. Falls eine Plattform eine Anmeldung oder Verifizierung verlangt, erledige sie zuerst in einem separaten Tab.
+Die Erweiterung ist kostenlos. Konten, Abonnements, Nutzungslimits und Netzwerkanforderungen legt jede Plattform selbst fest. Automatisches Ausfüllen und Senden hängen vom Aufbau der Websites ab. Nach Änderungen kann vorübergehend manuelles Senden nötig sein; wir passen die Unterstützung über Konfigurationsupdates an. Auch das Senden von Anhängen hängt von der Plattform ab. Einige Plattformen wie Grok funktionieren in der Erweiterung nicht regulär. Nutze dafür die Desktop-App oder einen neuen Tab.
 
 ## Hub über Alfred oder einen anderen Launcher öffnen
 
@@ -62,10 +75,11 @@ Zu den integrierten Plattformen gehören unter anderem ChatGPT, Gemini, Claude, 
 
 ## Daten und Datenschutz
 
-- Bereiche, gespeicherte Prompts, Tastenkürzel und Einstellungen werden im Erweiterungsspeicher des Browsers gespeichert.
-- Fragen, Anhänge und Gespräche, die du an KI-Plattformen sendest, werden von diesen nach ihren eigenen Richtlinien verarbeitet.
-- Wenn du die Prompt-Optimierung verwendest, wird der aktuelle Prompt an den Optimierungsdienst der Erweiterung gesendet.
-- Die Erweiterung ruft Konfigurations- und Versionsinformationen ab und sendet eine Installationskennung, Nutzungsereignisse und Fehlerinformationen für Nutzungsstatistiken und Fehleranalysen. Feedback und Umfragen übertragen die eingereichten Angaben.
+Ihre persönlichen Daten, darunter Bereiche, Einträge der Prompt-Bibliothek und Links zu gespeicherten Gesprächen, werden lokal gespeichert. Fragen und Anhänge werden an die von Ihnen gewählten KI-Plattformen gesendet.
+
+Wir nutzen Google Analytics, um anonym grundlegende Statistiken zur Oberflächennutzung (etwa Schaltflächenklicks und Tastenkürzel) und zu Fehlern zu erfassen und damit das Produkt zu verbessern.
+
+Bei der Prompt-Optimierung wird Ihr eingegebener Text zur Verarbeitung an die Server von Simple Chat Hub gesendet. Wir erfassen oder speichern diesen Text nicht.
 
 ## Feedback
 

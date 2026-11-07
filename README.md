@@ -4,32 +4,44 @@
 
 # Simple Chat Hub
 
-**Your favorite AIs. One simple place.**
+**Ask once. AI answers, side by side.**
 
 [Website](https://chathub.aipilot.cc/?lang=en) · [Feedback](https://chathub.aipilot.cc/feedback?lang=en) · [Changelog](CHANGELOG.md)
 
 **[English](README.md)** · [简体中文](README_CN.md) · [繁體中文](README_TW.md) · [Español](README_ES.md) · [العربية](README_AR.md) · [Русский](README_RU.md) · [Français](README_FR.md) · [Deutsch](README_DE.md) · [Português (Portugal)](README_PT_PT.md) · [Português (Brasil)](README_PT_BR.md) · [日本語](README_JA.md) · [한국어](README_KO.md)
 
-Simple Chat Hub brings ChatGPT, Gemini, DeepSeek and other AI platforms into one workspace. Chat on the familiar original websites, or send the same question to several AIs and read their answers side by side for different perspectives.
+Simple Chat Hub puts the websites of ChatGPT, Gemini, DeepSeek, Doubao, Kimi and other AI platforms side by side in one window. Type a question once in the shared input: each platform receives it and answers. Keep chatting on whichever platform you want to explore further.
 
-Less searching for a starting point. Fewer tabs to switch. Make everyday AI a little easier.
+Use the platforms’ own websites and your existing accounts. No API key or Simple Chat Hub account is needed.
 
 ![Simple Chat Hub workspace with ChatGPT, Gemini and DeepSeek answering an English question](screenshots/workspace-writing-en.png)
 
-Actual product screenshot with the new workspace layout and logo, using real conversations on ChatGPT, Gemini and DeepSeek.
+Real product interface
+
+## Ways to use it
+
+- **Understand a concept.** Ask how correlation and causation differ, compare examples and explanations, then follow up on the platform that explains it most clearly.
+- **Review information.** Give several AIs the same team update, compare their key points and questions to investigate, then check the original material.
+- **Troubleshoot a technical problem.** Ask why a page sends the same API request twice, compare approaches and explore one in more depth.
 
 ## Features
 
-- **One place. Ask together.** Keep your go-to platforms close. Chat with each one independently, or type once to ask several platforms together and follow up with each one separately.
-- **Spaces for your tasks.** Save different platform combinations for writing, research and everyday use. Give spaces your own names and icons, and organize pages with groups and tabs.
-- **Room for the answer.** Drag column borders to adjust widths, reorder columns and tabs, or collapse the sidebar for easier reading.
-- **Good prompts, ready again.** Save useful instructions in your prompt library, call them up when needed, or use prompt optimization to express an idea more clearly.
-- **Chats saved as one long image.** Capture a conversation from a single platform, then open a local preview for revisiting, organizing and sharing.
-- **Fewer repeated actions.** Use custom keyboard shortcuts and send file attachments through the shared input on compatible platforms.
-- **Launch from other tools.** Add a space launch link to Alfred or another launcher to open Hub with a question, ready to edit or send automatically.
-- **Keep your familiar accounts.** Open the original AI websites, add custom sites, and switch between light and dark themes and 12 interface languages. No Hub account or API key is required. The extension is free.
+- **Ask once, compare side by side.** Send the same question to every platform in the current space through the shared input. Read their answers side by side. Add files by selecting, pasting or dragging them in.
+- **Follow up separately.** Each platform keeps its own conversation context. Follow up in any platform’s input, or use just one platform.
+- **Spaces for your tasks.** Save different platform combinations for learning, analysis and coding. Choose names and icons, and switch with keyboard shortcuts. Keep multiple platform tabs per column, adjust column widths and collapse the sidebar.
+- **Save conversations and return anytime.** Save the platforms’ current conversation links and layout, then reopen them with one click.
+- **Prompt library.** Save useful instructions and insert them with a click or shortcut. Use prompt optimization to express your ideas more clearly.
+- **Long screenshots.** Save a complete conversation from one platform as a long image, with a width suited to desktop or mobile reading.
+- **Launch from other tools.** Copy a launch link from the space menu, configure it in Alfred or another launcher, and open Hub with a question to send automatically or just fill in.
+- **More details.** Over 30 built-in AI platforms from China and around the world, plus custom websites. Custom shortcuts, light and dark themes, and 12 interface languages.
 
 ## Install
+
+**Desktop app** · Windows / macOS / Linux
+
+[Download app](https://chathub.aipilot.cc/?lang=en#download) · [GitHub Releases](https://github.com/jackyr/simple-chat-hub-extension/releases)
+
+The macOS and Windows installers are currently not signed with a developer certificate, and the macOS app has not been notarized by Apple. When you first install or open the app, your system may report that it cannot verify the developer or publisher. Get installers from the official download page or this project’s GitHub Releases. On macOS, open the DMG and move the app to Applications. If the first launch is blocked, confirm you trust the download, then open System Settings → Privacy & Security, scroll to Security, and choose Open Anyway. Confirm Open and authenticate if prompted.
 
 Install from your browser's official extension store:
 
@@ -41,11 +53,12 @@ For offline installation, download a packaged file from the [repository file lis
 
 ## Get started
 
-1. Install the extension and open Simple Chat Hub.
-2. Choose your favorite platforms and arrange them into spaces.
-3. Sign in where needed, then chat on each platform or use the shared input to ask several AIs together.
+1. Install the extension and click the Simple Chat Hub icon in your browser toolbar.
+2. Sign in to the platforms you need in their columns. If sign-in does not work inside a column, sign in in a new browser tab, then refresh the column.
+3. Choose your platform combination and save it as a space.
+4. Ask through the shared input, read answers side by side and follow up wherever you want to go deeper.
 
-AI platform accounts, subscriptions, usage limits and network requirements are set by each platform. Page embedding, shared sending, file sending and capture support depend on the platform, login state and network environment. If a platform needs sign-in or verification, complete it in a separate tab first.
+The extension is free. Accounts, subscriptions, usage limits and network requirements are set by each platform. Automatic filling and sending depend on website structure. Platform updates may temporarily require manual sending; we maintain support through configuration updates. Attachment delivery also depends on the platform. A few platforms, such as Grok, cannot be used normally in the extension; use the desktop client or open them in a new tab.
 
 ## Open Hub from Alfred or another launcher
 
@@ -62,10 +75,11 @@ Built-in platforms include ChatGPT, Gemini, Claude, DeepSeek, Copilot, Grok, Per
 
 ## Data and privacy
 
-- Spaces, saved prompts, shortcuts and preferences are stored in browser extension storage.
-- Questions, attachments and conversations sent to AI platforms are handled by those platforms under their own policies.
-- When you use prompt optimization, the current prompt is sent to the extension's optimization service.
-- The extension requests configuration and version information and sends an installation identifier, usage events and error information for usage statistics and troubleshooting. Feedback and surveys send the submitted information.
+Your personal data, including spaces, prompt library entries and saved conversation links, is stored locally. Questions and attachments are sent to the AI platforms you choose.
+
+We use Google Analytics to anonymously collect basic interface usage statistics (such as button clicks and keyboard shortcuts) and error statistics to improve the product.
+
+When you use prompt optimization, the text you enter is sent to Simple Chat Hub servers for processing. We do not collect or store this text.
 
 ## Feedback
 

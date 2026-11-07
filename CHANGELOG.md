@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2.8.0 [2026.11.07]
+
+- feat: save history conversation support
+- feat: desktop client support
+- feat: Nami domain change
+- feat: UX refine
+- fix: bugfix
+
 ## 2.7.0 [2026.10.24]
 
 - feat: add workspace layout

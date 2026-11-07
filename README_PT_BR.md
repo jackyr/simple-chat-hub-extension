@@ -4,32 +4,44 @@
 
 # Simple Chat Hub
 
-**Suas IAs favoritas, no mesmo lugar.**
+**Uma pergunta. Respostas de IA lado a lado.**
 
 [Site](https://chathub.aipilot.cc/?lang=pt-BR) · [Feedback](https://chathub.aipilot.cc/feedback?lang=pt-BR) · [Histórico de alterações](CHANGELOG.md)
 
 [English](README.md) · [简体中文](README_CN.md) · [繁體中文](README_TW.md) · [Español](README_ES.md) · [العربية](README_AR.md) · [Русский](README_RU.md) · [Français](README_FR.md) · [Deutsch](README_DE.md) · [Português (Portugal)](README_PT_PT.md) · **[Português (Brasil)](README_PT_BR.md)** · [日本語](README_JA.md) · [한국어](README_KO.md)
 
-O Simple Chat Hub reúne ChatGPT, Gemini, DeepSeek e outras plataformas de IA em um espaço de trabalho. Converse nos sites originais que você já conhece ou envie a mesma pergunta a várias IAs e leia as respostas lado a lado para explorar diferentes perspectivas.
+O Simple Chat Hub reúne os sites do ChatGPT, Gemini, DeepSeek, Doubao, Kimi e de outras plataformas de IA lado a lado em uma janela. Escreva uma vez no campo comum: cada plataforma recebe a pergunta e responde. Continue a conversa naquela em que quiser se aprofundar.
 
-Menos procurar por onde começar, menos trocar de aba. Usar IA no dia a dia fica um pouco mais simples.
+Você usa os sites das plataformas com suas contas já conectadas. Não precisa de chave API nem de criar uma conta no Simple Chat Hub.
 
 ![Espaço do Simple Chat Hub com ChatGPT, Gemini e DeepSeek respondendo a uma pergunta em português do Brasil](screenshots/workspace-writing-pt-BR.png)
 
-Captura real do produto com o novo layout de espaços e logo, e conversas reais no ChatGPT, Gemini e DeepSeek.
+Interface real do produto
+
+## Formas de usar
+
+- **Entender um conceito.** Pergunte a diferença entre correlação e causalidade, compare exemplos e explicações e continue na plataforma que explicar melhor.
+- **Analisar informações.** Entregue o mesmo relatório semanal a várias IAs. Compare os pontos principais e as questões a verificar e confira os documentos originais.
+- **Investigar um problema técnico.** Pergunte por que uma página envia duas vezes a mesma solicitação API. Compare as abordagens e aprofunde uma delas.
 
 ## Recursos
 
-- **Um só lugar. Pergunte de uma vez.** Mantenha suas plataformas favoritas por perto. Converse com cada uma separadamente ou digite uma única vez para perguntar a várias IAs e depois continuar cada conversa de forma independente.
-- **Espaços para suas tarefas.** Salve diferentes combinações de plataformas para escrita, pesquisa e uso diário. Personalize os nomes e ícones dos espaços e organize as páginas em grupos e abas.
-- **Mais espaço para as respostas.** Arraste as bordas para ajustar a largura das colunas, reorganize colunas e abas ou recolha a barra lateral para facilitar a leitura.
-- **Bons prompts, prontos para usar de novo.** Salve instruções úteis na biblioteca de prompts e acesse-as quando precisar. A otimização de prompts também pode ajudar você a expressar uma ideia com mais clareza.
-- **Conversas salvas em uma única imagem longa.** Capture uma conversa de uma plataforma e abra uma prévia local para rever, organizar ou compartilhar.
-- **Menos ações repetidas.** Configure seus próprios atalhos de teclado e envie arquivos anexos pelo campo de entrada compartilhado nas plataformas compatíveis.
-- **Abra por outras ferramentas.** Adicione o link de abertura de um espaço ao Alfred ou a outro inicializador para abrir o Hub com uma pergunta, pronta para editar ou enviar automaticamente.
-- **Continue com suas contas habituais.** Abra os sites originais das plataformas de IA, adicione sites personalizados e escolha entre temas claro e escuro e 12 idiomas de interface. Não é preciso criar uma conta no Hub nem fornecer uma chave API. A extensão é gratuita.
+- **Uma pergunta, respostas lado a lado.** Envie a mesma pergunta a todas as plataformas do espaço atual pelo campo comum. Anexe arquivos selecionando, colando ou arrastando.
+- **Conversas independentes.** Cada plataforma mantém seu próprio contexto. Continue no campo de cada uma ou use apenas uma plataforma.
+- **Espaços por tarefa.** Salve combinações para aprender, analisar ou programar. Escolha nomes e ícones e alterne com atalhos. Use várias abas por coluna, ajuste as larguras e recolha a barra lateral.
+- **Salve e retome conversas.** Guarde os links das conversas atuais e a disposição das plataformas e volte com um clique.
+- **Biblioteca de prompts.** Salve instruções frequentes e insira-as com um clique ou atalho. A otimização de prompts ajuda a expressar ideias com mais clareza.
+- **Capturas longas.** Salve uma conversa completa de uma plataforma como imagem, com largura adequada para computador ou celular.
+- **Inicialização por outras ferramentas.** Copie um link no menu do espaço e configure-o no Alfred ou em outro inicializador. Abra o Hub com uma pergunta para enviar automaticamente ou apenas preencher.
+- **Mais detalhes.** Mais de 30 plataformas de IA chinesas e internacionais integradas, sites personalizados, atalhos configuráveis, temas claro e escuro e 12 idiomas de interface.
 
 ## Instalação
+
+**Aplicativo para computador** · Windows / macOS / Linux
+
+[Baixar aplicativo](https://chathub.aipilot.cc/?lang=pt-BR#download) · [GitHub Releases](https://github.com/jackyr/simple-chat-hub-extension/releases)
+
+Os instaladores para macOS e Windows ainda não foram assinados com um certificado de desenvolvedor, e a versão para macOS também não foi autenticada pela Apple. Ao instalar ou abrir o aplicativo pela primeira vez, o sistema pode informar que não consegue verificar o desenvolvedor ou o editor. Baixe os instaladores na página oficial de downloads ou na seção GitHub Releases deste projeto. No macOS, abra o DMG e mova o app para Aplicativos. Se a primeira abertura for bloqueada, confirme que confia na origem do download e abra Ajustes do Sistema → Privacidade e Segurança. Role até Segurança e escolha Abrir Mesmo Assim; confirme a abertura e autentique-se se solicitado.
 
 Instale a extensão pela loja oficial do seu navegador:
 
@@ -41,11 +53,12 @@ Para instalar offline, baixe um pacote da [lista de arquivos do repositório](ht
 
 ## Primeiros passos
 
-1. Instale a extensão e abra o Simple Chat Hub.
-2. Escolha suas plataformas favoritas e organize-as em espaços.
-3. Faça login quando necessário e converse em cada plataforma ou use o campo compartilhado para perguntar a várias IAs de uma vez.
+1. Instale a extensão e clique no ícone do Simple Chat Hub na barra de ferramentas do navegador.
+2. Entre nas plataformas em cada coluna. Se o login não funcionar ali, entre em uma nova aba do navegador e atualize a coluna.
+3. Escolha a combinação de plataformas e salve como espaço.
+4. Pergunte no campo comum, leia as respostas lado a lado e continue onde quiser se aprofundar.
 
-As contas, assinaturas, limites de uso e requisitos de rede são definidos por cada plataforma de IA. A incorporação de páginas, o envio compartilhado, o envio de arquivos e as capturas de conversas dependem da plataforma, do estado do login e da conexão. Se uma plataforma exigir login ou verificação, conclua essa etapa primeiro em uma aba separada.
+A extensão é gratuita. Contas, assinaturas, limites de uso e requisitos de rede são definidos por cada plataforma. O preenchimento e o envio automáticos dependem da estrutura dos sites. Após mudanças, o envio manual pode ser temporariamente necessário; mantemos a compatibilidade por atualizações de configuração. O envio de anexos também depende da plataforma. Algumas, como o Grok, não funcionam normalmente na extensão: use o aplicativo para computador ou abra em uma nova aba.
 
 ## Abrir o Hub pelo Alfred ou outro inicializador
 
@@ -62,10 +75,11 @@ As plataformas integradas incluem ChatGPT, Gemini, Claude, DeepSeek, Copilot, Gr
 
 ## Dados e privacidade
 
-- Os espaços, prompts salvos, atalhos e preferências ficam no armazenamento de extensões do navegador.
-- As perguntas, os anexos e as conversas enviados às plataformas de IA são tratados por essas plataformas conforme suas próprias políticas.
-- Ao usar a otimização de prompts, o prompt atual é enviado ao serviço de otimização da extensão.
-- A extensão solicita informações de configuração e versão e envia um identificador de instalação, eventos de uso e informações de erros para estatísticas de uso e diagnóstico. O feedback e as pesquisas enviam as informações submetidas.
+Seus dados pessoais, incluindo espaços, entradas da biblioteca de prompts e links para conversas salvas, são armazenados localmente. As perguntas e os anexos são enviados às plataformas de IA que você escolher.
+
+Usamos o Google Analytics para coletar anonimamente estatísticas básicas de uso da interface (como cliques em botões e atalhos de teclado) e de erros, para melhorar o produto.
+
+Ao otimizar um prompt, o texto digitado é enviado aos servidores do Simple Chat Hub para processamento. Não coletamos nem armazenamos esse texto.
 
 ## Feedback
 
