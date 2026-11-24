@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2.8.1 [2026.11.23]
+
+- feat: client icon shows in system menu/tray
+- feat: show/hide client through shortcut key
+- feat: client inside upgrade
+- feat: update built-in configs
+- fix: bugfix
+
 ## 2.8.0 [2026.11.07]
 
 - feat: save history conversation support
